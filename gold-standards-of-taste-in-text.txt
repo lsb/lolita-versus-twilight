@@ -1,0 +1,125 @@
+If one day it happens you find yourself with someone you love
+in a cafe at one end of the Pont Mirabeau,
+at the zinc bar where white wine stands in upward opening glasses,
+
+and if you commit then, as we did, the error of thinking,
+one day all this will only be memory,
+
+learn,
+as you stand at this end of the bridge which arcs,
+from love, you think, into enduring love,
+learn to reach deeper into the sorrows to come – to touch
+the almost imaginary bones under the face, to hear under the laughter
+the wind crying across the black stones. Kiss the mouth
+which tells you, here,
+here is the world.
+
+
+
+As of Dec 6, corn sales for delivery before Sept 1 fell 46 percent
+to 12.488 million tons from a year earlier, the lowest
+since the US Department of Agriculture began reporting the data in 1990.
+
+Output of grain-based ethanol, a gasoline additive,
+fell 1.3 percent in the week ended Dec 7 from a week earlier,
+and inventories rose to the highest since June 29,
+US Energy Department data show.
+
+Corn futures for March delivery declined 1.1 percent
+to $7.23 a bushel at 10:21am on the Chicago Board of Trade.
+A close at that level would mark the biggest drop since Dec 7.
+The price through Dec 14 gained 13 percent this year
+after drought cut US production 13 percent to a six-year low.
+
+
+
+
+
+
+We have noticed in nature that the behavior of a fluid depends very little on the nature of the individual particles in that fluid. For example, the flow of sand is very similar to the flow of water or the flow of a pile of ball bearings. We have therefore taken advantage of this fact to invent a type of imaginary particle that is especially simple for us to simulate. This particle is a perfect ball bearing that can move at a single speed in one of six directions. The flow of these particles on a large enough scale is very similar to the flow of natural fluids.
+
+
+
+But deep conceptual shifts within twentieth-century science have undermined this Cartesian-Newtonian metaphysics[1]; revisionist studies in the history and philosophy of science have cast further doubt on its credibility[2]; and, most recently, feminist and poststructuralist critiques have demystified the substantive content of mainstream Western scientific practice, revealing the ideology of domination concealed behind the facade of "objectivity".[3] It has thus become increasingly apparent that physical "reality", no less than social "reality", is at bottom a social and linguistic construct; that scientific "knowledge", far from being objective, reflects and encodes the dominant ideologies and power relations of the culture that produced it; that the truth claims of science are inherently theory-laden and self-referential; and consequently, that the discourse of the scientific community, for all its undeniable value, cannot assert a privileged epistemological status with respect to counter-hegemonic narratives emanating from dissident or marginalized communities.
+
+
+
+
+
+
+The head of a pin is a sixteenth of an inch across. If you magnify it by 25,000 diameters, the area of the head of the pin is then equal to the area of all the pages of the Encyclopaedia Brittanica. Therefore, all it is necessary to do is to reduce in size all the writing in the Encyclopaedia by 25,000 times. Is that possible? The resolving power of the eye is about 1/120 of an inch – that is roughly the diameter of one of the little dots on the fine half-tone reproductions in the Encyclopaedia. This, when you demagnify it by 25,000 times, is still 80 angstroms in diameter – 32 atoms across, in an ordinary metal. In other words, one of those dots still would contain in its area 1,000 atoms. So, each dot can easily be adjusted in size as required by the photoengraving, and there is no question that there is enough room on the head of a pin to put all of the Encyclopaedia Brittanica.
+
+
+
+Thus, a liberatory science cannot be complete without a profound revision of the canon of mathematics.[105] As yet no such emancipatory mathematics exists, and we can only speculate upon its eventual content. We can see hints of it in the multidimensional and nonlinear logic of fuzzy systems theory[106]; but this approach is still heavily marked by its origins in the crisis of late-capitalist production relations.[107] Catastrophe theory[108], with its dialectical emphases on smoothness/discontinuity and metamorphosis/unfolding, will indubitably play a major role in the future mathematics; but much theoretical work remains to be done before this approach can become a concrete tool of progressive political praxis.
+
+
+
+
+
+
+Atoms on a small scale behave like nothing on a large scale, for they satisfy the laws of quantum mechanics. So, as we go down and fiddle around with the atoms down there, we are working with different laws, and we can expect to do different things. We can manufacture in different ways. We can use, not just circuits, but some system involving the quantized energy levels, or the interactions of quantized spins, etc.
+Another thing we will notice is that, if we go down far enough, all of our devices can be mass produced so that they are absolutely perfect copies of one another. We cannot build two large machines so that the dimensions are exactly the same. But if your machine is only 100 atoms high, you only have to get it correct to one-half of one percent to make sure the other machine is exactly the same size – namely, 100 atoms high!
+
+
+
+Finally, postmodern science provides a powerful refutation of the authoritarianism and elitism inherent in traditional science, as well as an empirical basis for a democratic approach to scientific work. For, as Bohr noted, "a complete elucidation of one and the same object may require diverse points of view which defy a unique description" -- this is quite simply a fact about the world, much as the self-proclaimed empiricists of modernist science might prefer to deny it. In such a situation, how can a self-perpetuating secular priesthood of credentialed "scientists" purport to maintain a monopoly on the production of scientific knowledge? (Let me emphasize that I am in no way opposed to specialized scientific training; I object only when an elite caste seeks to impose its canon of "high science", with the aim of excluding a priori alternative forms of scientific production by non-members.)
+
+
+
+
+
+
+These are the first days of fall. The wind
+at evening smells of roads still to be traveled,
+while the sound of leaves blowing across the lawns
+is like an unsettled feeling in the blood,
+the desire to get in a car and just keep driving.
+A man and a dog descend their front steps.
+The dog says, Let's go downtown and get crazy drunk.
+Let’s tip over all the trash cans we can find.
+This is how dogs deal with the prospect of change.
+But in his sense of the season, the man is struck
+by the oppressiveness of his past, how his memories
+which were shifting and fluid have grown more solid
+until it seems he can see remembered faces
+caught up among the dark places in the trees.
+
+
+
+...the rain fell in torrents, except at occasional intervals,
+when it was checked by a violent gust of wind which swept up the streets
+(for it is in London that our scene lies)
+rattling along the house-tops,
+and fiercely agitating the scanty flame of the lamps that struggled against the darkness.
+Through one of the obscurest quarters of London,
+and among haunts little loved by the gentlemen of the police,
+a man, evidently of the lowest orders, was wending his solitary way.
+He stopped twice or thrice at different shops and houses
+of a description correspondent with the appearance of the quartier in which they were situated,
+and tended inquiry for some article or another
+which did not seem easily to be met with....
+
+
+
+
+
+
+After he finished the blackjack program and got it to run ("Even the initializer is optimized", he said proudly), he got a Change Request from the sales department. The program used an elegant (optimized) random number generator to shuffle the "cards" and deal from the "deck", and some of the salesmen felt it was too fair, since sometimes the customers lost. They wanted Mel to modify the program so, at the setting of a sense switch on the console, they could change the odds and let the customer win. Mel balked. He felt this was patently dishonest, which it was, and that it impinged on his personal integrity as a programmer, which it did, so he refused to do it. The Head Salesman talked to Mel, as did the Big Boss and, at the boss's urging, a few Fellow Programmers. Mel finally gave in and wrote the code, but he got the test backwards, and, when the sense switch was turned on, the program would cheat, winning every time. Mel was delighted with this, claiming his subconscious was uncontrollably ethical, and adamantly refused to fix it.
+
+
+
+As when some rural citizen-retired for a fleeting holiday, far from the cares of the world strepitumque Romae, to the sweet shades of Pentonville or the remoter plains of Clapham--conducts some delighted visitor over the intricacies of that Daedalian masterpiece which he is pleased to call his labyrinth or maze,--now smiling furtively at his guest's perplexity, now listening with calm superiority to his futile and erring conjectures, now maliciously accompanying him through a flattering path in which the baffled adventurer is suddenly checked by the blank features of a thoroughfareless hedge, now trembling as he sees the guest stumbling unawares into the right track, and now relieved as he beholds him after a pause of deliberation wind into the wrong,--even so, O pleasant reader! doth the sage novelist conduct thee through the labyrinth of his tale, amusing himself with thy self-deceits, and spinning forth, in prolix pleasure, the quiet yarn of his entertainment from the involutions which occasion thy fretting eagerness and perplexity.
+
+
+
+
+
+
+If personality is an unbroken series of successful gestures, then there was something gorgeous about him, some heightened sensitivity to the promises of life, as if he were related to one of those intricate machines that register earthquakes ten thousand miles away. This responsiveness had nothing to do with that flabby impressionability which is dignified under the name of the "creative temperament"--it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again. No--Jay turned out all right at the end; it is what preyed on Jay, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.
+
+
+
+Sympathise with me, indeed! Ah, no! Cast your sympathy on the chill waves of troubled waters; fling it on the oases of futurity; dash it against the rock of gossip; or, better still, allow it to remain within the false and faithless bosom of buried scorn.
+Such were a few remarks of Irene as she paced the beach of limited freedom, alone and unprotected. Sympathy can wound the breast of trodden patience,-it hath no rival to insure the feelings we possess, save that of sorrow.
+The gloomy mansion stands firmly within the ivy-covered, stoutly-built walls of Dunfern, vast in proportion and magnificent in display. It has been built over three hundred years, and its structure stands respectably distant from modern advancement, and in some degrees it could boast of architectural designs rarely, if ever, attempted since its construction.
